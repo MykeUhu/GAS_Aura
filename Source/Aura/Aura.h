@@ -1,4 +1,4 @@
-// Corpyright MykeUhu
+// Copyright Druid Mechanics
 
 #pragma once
 

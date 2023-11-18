@@ -1,4 +1,4 @@
-// Corpyright MykeUhu
+// Copyright Druid Mechanics
 
 #include "Aura.h"
 #include "Modules/ModuleManager.h"
